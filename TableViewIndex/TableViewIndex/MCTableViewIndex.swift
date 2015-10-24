@@ -5,6 +5,7 @@
 //  Created by michan on 15/3/6.
 //  Copyright (c) 2015年 MC. All rights reserved.
 //
+//修改了内容（测试）
 protocol MCTableViewIndexDelegate:NSObjectProtocol{
     /**
     *  触摸到索引时触发
